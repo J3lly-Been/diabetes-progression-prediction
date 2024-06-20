@@ -1,5 +1,3 @@
----
-
 # Diabetes Progression Prediction
 
 ## Table of Contents
@@ -76,5 +74,3 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
----
