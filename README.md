@@ -1,5 +1,3 @@
-Certainly! Here's the README file without the image reference:
-
 ---
 
 # Diabetes Progression Prediction
